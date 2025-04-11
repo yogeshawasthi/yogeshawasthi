@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Minor Project in MERN   about "Gym Manaement System"
-🌱 I’m currently learning Full Stack MERN 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🌱 I’m currently learning MERN 
+- 👯 I’m looking to collaborate on development cybersecutiry hackathon
 - 💬 Ask me about anything that comes to your mind
 - 📫 How to reach me: just follow my socials
 - 😄 Pronouns: yogi , awasthi
