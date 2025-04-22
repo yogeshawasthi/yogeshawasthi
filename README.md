@@ -1,5 +1,6 @@
 # 💫 About Me:
 I’m currently working on Minor Project in MERN about "Gym Manaement System"<br><br>
+I`m Currently  Learnig MERN Stack 
 
 
 ## 🌐 Socials:
