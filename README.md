@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hellow I am  third year  Student currently persuing my Engineering in Computer Science 
-I’m currently working on Minor Project in MERN about "Gym Manaement System"<br>
+I’m currently working on Data Scince With Python<br>
 I`m Currently  Learnig MERN Stack 
 
 
