@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello I am  final year  Student currently persuing my Engineering in Computer Science 
 I’m currently working on Data Scince With Python<br>
+Iam open to work. Love to do work on open source projects 
 
 
 ## 🌐 Socials:
