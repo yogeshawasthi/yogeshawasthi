@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello I am  final year  Student currently persuing my Engineering in Computer Science 
 I’m currently working on Data Scince With Python<br>
-I`m Currently Preparing for Internship in  MERN Stack 
 
 
 ## 🌐 Socials:
